@@ -1,0 +1,17 @@
+vendors:
+- path: github.com/drone/drone-plugin-go
+  rev: d6109f644c5935c22620081b4c234bb2263743c7
+- path: github.com/golang/protobuf
+  rev: 0c1f6d65b5a189c2250d10e71a5506f06f9fa0a0
+- path: golang.org/x/net
+  rev: 3f122ce3dbbe488b7e6a8bdb26f41edec852a40b
+- path: golang.org/x/oauth2
+  rev: 65a8d08c6292395d47053be10b3c5e91960def76
+- path: google.golang.org/api
+  rev: 63ade871fd3aec1225809d496e81ec91ab76ea29
+- path: google.golang.org/appengine
+  rev: 7f59a8c76b8594d06044bfe0bcbe475cb2020482
+- path: google.golang.org/cloud
+  rev: 581cbbbaf53b821281c5df8f4bb9fa69c2d5f49c
+- path: google.golang.org/grpc
+  rev: e78224b060cf3215247b7be455f80ea22e469b66
